@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ErhanArda/navlungo-mui-component-library/issues"
   },
-  "homepage": "https://github.com/ErhanArda/navlungo-mui-component-library#readme"
+  "homepage": "https://github.com/ErhanArda/navlungo-mui-component-library#readme",
+  "devDependencies": {
+    "@types/react": "^18.0.20",
+    "react": "^18.2.0",
+    "typescript": "^4.8.3"
+  }
 }
