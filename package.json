@@ -1,6 +1,6 @@
 {
   "name": "@ErhanArda/component-library",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Component library",
   "scripts": {
     "rollup": "rollup -c"
@@ -34,5 +34,9 @@
   "types": "dist/index.d.ts",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/erhanarda"
+  },
+  "dependencies": {
+    "postcss": "^8.4.16",
+    "rollup-plugin-postcss": "^4.0.2"
   }
 }
