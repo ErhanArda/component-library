@@ -1,6 +1,6 @@
 {
   "name": "@erhanarda/component-library",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Component library",
   "scripts": {
     "rollup": "rollup -c",
